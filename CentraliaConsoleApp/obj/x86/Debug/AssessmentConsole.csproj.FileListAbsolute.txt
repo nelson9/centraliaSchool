@@ -1,0 +1,19 @@
+F:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\bin\Debug\AssessmentConsole.exe
+F:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\bin\Debug\AssessmentConsole.pdb
+F:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.exe
+F:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.pdb
+I:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.exe
+I:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.pdb
+I:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\bin\Debug\AssessmentConsole.exe
+I:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\bin\Debug\AssessmentConsole.pdb
+I:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.csprojResolveAssemblyReference.cache
+G:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.exe
+G:\Uni\HND\Yvonnes\OOD\AssessmentConsole\AssessmentConsole\obj\x86\Debug\AssessmentConsole.pdb
+F:\Uni\HND\Yvonnes\OOD\Assessment - Niall Ferguson\AssessmentConsole\obj\x86\Debug\AssessmentConsole.exe
+F:\Uni\HND\Yvonnes\OOD\Assessment - Niall Ferguson\AssessmentConsole\obj\x86\Debug\AssessmentConsole.pdb
+F:\Uni\HND\Yvonnes\OOD\Assessment - Niall Ferguson\AssessmentConsole\bin\Debug\AssessmentConsole.exe
+F:\Uni\HND\Yvonnes\OOD\Assessment - Niall Ferguson\AssessmentConsole\bin\Debug\AssessmentConsole.pdb
+F:\Uni\HND\Yvonnes\OOD\Assessment - Niall Ferguson\AssessmentConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Uni\HND\Yvonnes\OOD\OOP Assessment - Niall Ferguson\AssessmentConsole\obj\x86\Debug\AssessmentConsole.exe
+H:\Uni\HND\Yvonnes\OOD\OOP Assessment - Niall Ferguson\AssessmentConsole\obj\x86\Debug\AssessmentConsole.pdb
